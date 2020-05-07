@@ -7,8 +7,9 @@ Created on Thu May  7 09:36:38 2020
 
 from setuptools import setup
 
-setup(name='distributions',
+setup(name='test-theoto-distributions',
       version='0.1',
       description='Gaussian distributions',
-      packages=['distributions'],
+      author = 'Tatiana Theoto',
+      packages=['test-theoto-distributions'],
       zip_safe=False)
