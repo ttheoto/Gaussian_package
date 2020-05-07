@@ -7,3 +7,4 @@ Created on Thu May  7 09:27:59 2020
 
 
 from .Gaussiandistribution import Gaussian
+from .Binomialdistribution import Binomial
