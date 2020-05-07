@@ -8,7 +8,7 @@ Created on Thu May  7 08:45:11 2020
 
 import math
 import matplotlib.pyplot as plt
-from Generaldistribution import Distribution
+from .Generaldistribution import Distribution
 
 class Gaussian(Distribution):
 	""" Gaussian distribution class for calculating and 
